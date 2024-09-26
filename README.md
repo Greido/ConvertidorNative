@@ -1,6 +1,6 @@
-# Conversor de cm a metros - React Native App
+# Conversor de cm a metros  - React Native App ⚛️
 
-Esta aplicación de React Native permite a los usuarios convertir valores de centímetros a metros. La app cuenta con dos pantallas principales: una pantalla de inicio y una pantalla de conversión. Es un proyecto sencillo que utiliza React Navigation para navegar entre las dos pantallas.
+Esta aplicación de React Native permite a los usuarios convertir valores de centímetros a metros 😊. La app cuenta con dos pantallas principales: una pantalla de inicio y una pantalla de conversión. Es un proyecto sencillo que utiliza React Navigation para navegar entre las dos pantallas.
 
 ## Características
 
